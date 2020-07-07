@@ -1,0 +1,20 @@
+.formcontrol{
+    width: 30%;
+}
+
+.Select{
+    padding:7px;
+}
+
+.Select Option{
+    background-color: white!important;
+    text-align: center!important;
+}
+
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
