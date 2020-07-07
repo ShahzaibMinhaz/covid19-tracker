@@ -64,7 +64,8 @@ const useStyles = makeStyles((theme) => ({
   },
   Link:{
     color:'white',
-    textDecoration:'none'
+    textDecoration:'none',
+    fontWeight:'bold'
   }
 }));
 
