@@ -117,6 +117,6 @@ export default function CountrydataCards({Countrydata}) {
           </div>
       </div>
       <GlobalBarChart data={Countrydata}/>
-    </div> : <h3>.</h3>
+    </div> : <h6>.</h6>
   );
 }
